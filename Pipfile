@@ -11,3 +11,5 @@ pylint = "*"
 [packages]
 django = "*"
 pillow = "*"
+django-heroku = "*"
+gunicorn = "*"
